@@ -9,7 +9,7 @@
 # 📊 GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 <p align="right">
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaum1502&theme=midnight-purple&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaum1502&theme=midnight-purple&hide_border=false>"<br/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
