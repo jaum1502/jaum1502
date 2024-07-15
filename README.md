@@ -10,9 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaum1502&theme=midnight-purple&hide_border=false)<br/>
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
