@@ -7,16 +7,16 @@
 
 # <p align="center"><b>🌐 Redes Sociais:<b></p>
 <p align="center">
-  <a href="https://discord.gg/https://discord.gg/jNSygBnZ45">
+  <a href="https://discord.gg/jNSygBnZ45">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="35" width="130">
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/jaum_15.02/">
+  <a href="https://www.instagram.com/jaum_15.02/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="35" width="130">
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaum1502/">
+  <a href="https://www.linkedin.com/in/jaum1502/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="35" width="130">
   </a>
-  <a href="https://twitch.tv/https://www.twitch.tv/johnnyelevenbr">
+  <a href="https://www.twitch.tv/johnnyelevenbr">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" height="35" width="130">
   </a>
 </p>
