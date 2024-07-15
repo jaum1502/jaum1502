@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jaum1502/jaum1502/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaum1502&icon=0&color=0)](https://visitcount.itsvg.in)
