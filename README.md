@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-!GitHub Snake Light
-!GitHub Snake Dark
 ---
 [![](https://visitcount.itsvg.in/api?id=jaum1502&icon=0&color=0)](https://visitcount.itsvg.in)
 
