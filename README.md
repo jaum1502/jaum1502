@@ -1,23 +1,23 @@
-# 💫 Sobre mim:
+# <p align="center">💫 Sobre mim: </p>
 👨‍🎓 Nome: João Alvin Odorizzi, 18 anos;<br><br>🏡 Local: Indaial, SC;<br><br>
 🎓 Educação: Segundo semestre de Ciências da Computação na FURB, Blumenau;<br><br>
 💻 Habilidades: HTML, CSS, Java, JavaScript, e aprendendo Pyhon/PHP;<br><br>
 🤝 Soft Skills: Excelente para trabalho em equipe, comunicativo;<br><br>
 👨‍💼 Experiência: Ampla experiência no atendimento ao público trabalhando com meu pai desde cedo, o que desenvolveu minhas habilidades de comunicação e empatia;<br><br>🚀 Objetivo: Buscar oportunidades no ramo da tecnologia para aplicar minhas habilidades em projetos inovadores e continuar meu desenvolvimento profissional.
 
-# 🌐 Redes Sociais:
+# <p align="center"><b>🌐 Redes Sociais:<b></p>
 <p align="center">
   <a href="https://discord.gg/https://discord.gg/jNSygBnZ45">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="50" width="190">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="35" width="130">
   </a>
   <a href="https://instagram.com/https://www.instagram.com/jaum_15.02/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="50" width="190">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="35" width="130">
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaum1502/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="190">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="35" width="130">
   </a>
   <a href="https://twitch.tv/https://www.twitch.tv/johnnyelevenbr">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" height="50" width="190">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" height="35" width="130">
   </a>
 </p>
 
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
 </p>
 
-## <p align="center">🏆 GitHub Trophies  </p>
+# <p align="center">🏆 GitHub Trophies  </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
