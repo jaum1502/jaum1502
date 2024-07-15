@@ -1,7 +1,6 @@
 # 💫 Sobre mim:
 👨‍🎓 Nome: João Alvin Odorizzi, 18 anos;<br><br>🏡 Local: Indaial, SC;<br><br>🎓 Educação: Segundo semestre de Ciências da Computação na FURB, Blumenau;<br><br>💻 Habilidades: HTML, CSS, Java, JavaScript, e aprendendo Pyhon/PHP;<br><br>🤝 Soft Skills: Excelente para trabalho em equipe, comunicativo;<br><br>👨‍💼 Experiência: Ampla experiência no atendimento ao público trabalhando com meu pai desde cedo, o que desenvolveu minhas habilidades de comunicação e empatia;<br><br>🚀 Objetivo: Buscar oportunidades no ramo da tecnologia para aplicar minhas habilidades em projetos inovadores e continuar meu desenvolvimento profissional.
 
-
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jNSygBnZ45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jaum_15.02/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaum1502/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/johnnyelevenbr) 
 
@@ -10,8 +9,9 @@
 # 📊 GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaum1502&theme=midnight-purple&hide_border=false)<br/>
+
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -21,6 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaum1502&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
