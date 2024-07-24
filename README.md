@@ -1,7 +1,7 @@
 # <p align="center">💫 Sobre mim: 
 <p align="center">
 👨‍🎓 Nome:<BR> João Alvin Odorizzi, 18 anos;<br><br>
-🏡 Local:<BR> Indaial, SC;<br><br>
+🏡 Local:<BR> Indaial, Santa Catarina;<br><br>
 🎓 Educação:<BR> Segundo semestre de Ciências da Computação na FURB, Blumenau;<br><br>
 💻 Habilidades:<BR> HTML, CSS, Java, JavaScript, e aprendendo Python/PHP;<br><br>
 🤝 Soft Skills:<BR> Excelente para trabalho em equipe, eficiênte, comunicativo e proativo;<br><br>
