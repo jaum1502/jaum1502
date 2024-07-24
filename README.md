@@ -8,7 +8,7 @@
 👨‍💼 Experiência:<BR> Ampla experiência no atendimento ao público trabalhando com meu pai desde cedo, o que desenvolveu minhas habilidades de comunicação e empatia;<br><br>
 🚀 Objetivo:<BR> Buscar oportunidades no ramo da tecnologia para aplicar minhas habilidades em projetos inovadores e continuar meu desenvolvimento profissional.
 </p>
-# <p align="center"><b>🌐 Redes Sociais:<b></p>
+#<p align="center">🌐 Redes Sociais:</p>
 <p align="center">
   <a href="https://discord.gg/jNSygBnZ45">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="35" width="130">
