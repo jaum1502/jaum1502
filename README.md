@@ -61,9 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
-<p align="center">
-  <img src="https://github.com/jaum1502/jaum1502/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
-</p>
 
 ---
 <p align="center">
