@@ -2,8 +2,8 @@
 <p align="center">
 👨‍🎓 Nome:<BR> João Alvin Odorizzi, 20 anos;<br><br>
 🏡 Local:<BR> Indaial, Santa Catarina;<br><br>
-🎓 Educação:<BR> Quinto semestre de Ciências da Computação na FURB, Blumenau;<br><br>
-💻 Habilidades:<BR> HTML, CSS, Java, JavaScript, e aprendendo Python/PHP;<br><br>
+🎓 Educação:<BR> Sexto semestre de Ciências da Computação na FURB, Blumenau;<br><br>
+💻 Habilidades:<BR> HTML, CSS, Java, JavaScript, Python, PHP;<br><br>
 🤝 Soft Skills:<BR> Excelente para trabalho em equipe, eficiênte, comunicativo e proativo;<br><br>
 👨‍💼 Experiência:<BR> Ampla experiência no atendimento ao público trabalhando com meu pai desde cedo, o que desenvolveu minhas habilidades de comunicação e empatia;<br><br>
 🚀 Objetivo:<BR> Buscar oportunidades no ramo da tecnologia para aplicar minhas habilidades em projetos inovadores e continuar meu desenvolvimento profissional.
