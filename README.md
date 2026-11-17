@@ -55,14 +55,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum1502&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
 </p>
-
-# <p align="center">🏆 GitHub Trophies  </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaum1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=jaum1502&icon=0&color=0" alt="visit count"></a>
-</p>
